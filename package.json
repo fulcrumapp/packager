@@ -1,7 +1,7 @@
 {
-  "name": "level-packager",
+  "name": "level-packager-es5",
   "description": "LevelUP package helper for distributing with a LevelDOWN-compatible back-end",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "contributors": [
     "Rod Vagg <r@va.gg> (https://github.com/rvagg)",
     "John Chesley <john@chesl.es> (https://github.com/chesles/)",
@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Level/packager.git"
+    "url": "https://github.com/fulcrumapp/packager.git"
   },
   "scripts": {
     "test": "node test.js"
   },
-  "homepage": "https://github.com/Level/packager",
+  "homepage": "https://github.com/fulcrumapp/packager",
   "keywords": [
     "leveldb",
     "stream",
