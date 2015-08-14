@@ -1,4 +1,4 @@
-const levelup = require('levelup')
+var levelup = require('levelup')
 
 function packager (leveldown) {
   function Level (location, options, callback) {
